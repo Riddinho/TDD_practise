@@ -1,2 +1,4 @@
 
 "this is a nother test :)"
+
+we are creating examples of using git
